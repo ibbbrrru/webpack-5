@@ -10,4 +10,4 @@ const App = ({ name }) => {
 
 export default App;
 
-// rm dist/*.bundle.*
+// rm dist/*.bundle.
